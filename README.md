@@ -2,7 +2,7 @@
 
 A website to introduce all the freshers here at IIT BHU to COPS and Git!
 
-The Web Page is live at - [Freshers-NameCards](https://cops-freshers.netlify.app/)
+The Web Page is live at - [Freshers-NameCards](https://cops-freshers-namecard.netlify.app/)
 
 ## Steps to Contribute
 
