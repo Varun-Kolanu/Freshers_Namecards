@@ -8,7 +8,7 @@ const HEADER_ITEMS = [
     {
         id: 1,
         title: "Submit A Card",
-        url: "https://github.com/EshaanAgg/Freshers-Namecards",
+        url: "https://github.com/Varun-Kolanu/Freshers_Namecards",
     },
     {
         id: 2,
