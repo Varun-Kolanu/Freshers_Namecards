@@ -25,10 +25,17 @@ const CONTRIBUTERS = [
         github: "https://github.com/shivansh-bhatnagar18"
     },
     {
+
         handle_name: 'anushka5531',
         name: "Anushka Tripathi",
         description: "namaste!! myself Anushka Tripathi from ECE 2023 batch.",
         github: "https://github.com/anushka5531"
+
+        handle_name: 'LakshyaKhilwani',
+        name: "Lakshya Khilwani",
+        description: "Hello everyone, myself Lakshya from MnC Part 1",
+        github: "https://github.com/LakshyaKhilwani"
+
     },
     
 ];
