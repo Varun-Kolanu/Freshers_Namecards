@@ -44,12 +44,24 @@ const CONTRIBUTERS = [
     },
     {
 
+
+
+        handle_name: 'anshikajain-31',
+        name: "Anshika jain",
+        description: "Hello everyone, myself Anshika from MnC Part 1",
+        github: "https://github.com/anshikajain-31"
+    },
+  {
+
+
+
         handle_name: 'sethdivyansh',
         name: "Divyansh Seth",
         description: "Hello everyone, I am Divyansh Seth from Pharma Part 1",
         github: "https://github.com/sethdivyansh"
     },  
   {
+
         handle_name: 'Krishna9119',
         name: "Krishna Ishwar Deshmukh",
         description: "Hello everyone, myself Krishna from MnC Part 1",
@@ -78,10 +90,14 @@ const CONTRIBUTERS = [
     },
   {
 
+
+
+
         handle_name: 'Priyanshu9801',
         name: "Priyanshu Gupta",
         description: "Hello everyone, myself Priyanshu from Meta Part 1",
         github: "https://github.com/Priyanshu9801"
+
     },
 ];
 
