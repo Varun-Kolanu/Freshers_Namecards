@@ -25,16 +25,18 @@ const CONTRIBUTERS = [
         github: "https://github.com/shivansh-bhatnagar18"
     },
     {
-
-
-
         handle_name: 'DhwanilShah25',
         name: "Dhwanil Shah",
         description: "Hello everyone, myself Dhwanil from MnC Part 1",
         github: "https://github.com/DhwanilShah25"
     },
     {
-
+        handle_name: 'sethdivyansh',
+        name: "Divyansh Seth",
+        description: "Hello everyone, I am Divyansh Seth from Pharma Part 1",
+        github: "https://github.com/sethdivyansh"
+    },  
+  {
 
         handle_name: 'Krishna9119',
         name: "Krishna Ishwar Deshmukh",
@@ -42,6 +44,7 @@ const CONTRIBUTERS = [
         github: "https://github.com/Krishna9119"
 
     },
+
     {
 
         handle_name: 'KaifAsALearner',
