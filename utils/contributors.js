@@ -31,6 +31,17 @@ const CONTRIBUTERS = [
         github: "https://github.com/shivansh-bhatnagar18"
     },
 
+
+  {
+    {handle_name: 'mayank233444',
+    name: "Mayank Bindal",
+    description: "Hello everyone, myself Mayank Bindal from chemical part 1",
+    github: "https://github.com/mayank233444"
+
+
+  },
+
+
     {
         handle_name: 'shubhamkhetan02',
         name: "Shubham Khetan",
@@ -44,12 +55,14 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Ayushman from EEE Part 1",
         github: "https://github.com/ayushman-05"
     },
+
     { 
     handle_name: 'neharika-garg-20',
     name: "Neharika Garg",
     description: "Hello everyone, myself Neharika from CSE Part 1",
     github:  "https://github.com/neharika-garg-20"},
     
+
     {
 
 
