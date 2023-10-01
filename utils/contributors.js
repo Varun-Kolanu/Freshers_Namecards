@@ -27,7 +27,8 @@ const CONTRIBUTERS = [
     {
         handle_name: 'Analyze-R',
         name:"Aditya Arkalgud",
-        description: "Hello everyone, this is Aditya from ECE Part 1"
+        description: "Hello everyone, this is Aditya from ECE Part 1",
+        github: "https://github.com/Analyze-R"
     },
     
 ];
