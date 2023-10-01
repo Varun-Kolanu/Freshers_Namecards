@@ -37,6 +37,7 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Sahil Gaikwad from Pharma part 1",
         github: "https://github.com/SahilGaikwad2049",
     },
+    {
 
         handle_name: 'ayushman-05',
         name: "Ayushman Mishra",
