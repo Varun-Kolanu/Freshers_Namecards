@@ -31,13 +31,19 @@ const CONTRIBUTERS = [
         github: "https://github.com/shivansh-bhatnagar18"
     },
 
-
     {
         handle_name: 'shubhamkhetan02',
         name: "Shubham Khetan",
         description: "Hello everyone, myself Shubham from MnC Part 1",
         github: "https://github.com/shubhamkhetan02"
 
+    { 
+    handle_name: 'neharika-garg-20',
+    name: "Neharika Garg",
+    description: "Hello everyone, myself Neharika from CSE Part 1",
+    github:  "https://github.com/neharika-garg-20"},
+    
+  },
     {
         handle_name: 'priyamvadanegi',
         name: "Priyamvada Negi",
@@ -46,12 +52,24 @@ const CONTRIBUTERS = [
     },
     {
 
+
+
+        handle_name: 'anshikajain-31',
+        name: "Anshika jain",
+        description: "Hello everyone, myself Anshika from MnC Part 1",
+        github: "https://github.com/anshikajain-31"
+    },
+  {
+
+
+
         handle_name: 'sethdivyansh',
         name: "Divyansh Seth",
         description: "Hello everyone, I am Divyansh Seth from Pharma Part 1",
         github: "https://github.com/sethdivyansh"
     },  
   {
+
         handle_name: 'Krishna9119',
         name: "Krishna Ishwar Deshmukh",
         description: "Hello everyone, myself Krishna from MnC Part 1",
@@ -79,6 +97,9 @@ const CONTRIBUTERS = [
         github: "https://github.com/LakshyaKhilwani"
     },
   {
+
+
+
 
         handle_name: 'Priyanshu9801',
         name: "Priyanshu Gupta",
