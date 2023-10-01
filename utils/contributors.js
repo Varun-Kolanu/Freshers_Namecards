@@ -117,7 +117,13 @@ const CONTRIBUTERS = [
         github: "https://github.com/Priyanshu9801"
 
     },
+    {
 
+        handle_name: 'ujjawalk',
+        name: "Ujjawal Kumar Chouhan",
+        description: "Hello everyone, myself Ujjawal from ECE Part 1",
+        github: "https://github.com/UjjawalK7895"
+    },
 ];
 
 export default CONTRIBUTERS;
