@@ -32,10 +32,23 @@ const CONTRIBUTERS = [
     },
 
     {
+        handle_name: 'KaifAsALearner',
+        name: "Sk Md Kaif",
+        description: "Hello everyone, myself Kaif from EEE Part 1",
+        github: "https://github.com/KaifAsALearner"
+    },
+    {
+        handle_name: 'shreyj24',
+        name: "Shrey Jaiswal",
+        description: "Hello everyone, myself Shrey from Electrial Part 1",
+        github: "https://github.com/shreyj24"
+    },
+    {
         handle_name: 'LakshyaKhilwani',
         name: "Lakshya Khilwani",
         description: "Hello everyone, myself Lakshya from MnC Part 1",
         github: "https://github.com/LakshyaKhilwani"
+
     },
     
 ];
