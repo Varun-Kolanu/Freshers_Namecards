@@ -7,10 +7,10 @@ const CONTRIBUTERS = [
     },
     // Start adding your data below
     {
-        handle_name: 'Varun-Kolanu',
-        name: "Varun Kolanu",
-        description: "Hello everyone, myself Varun from CSE Part 2",
-        github: "https://github.com/Varun-Kolanu"
+        handle_name: 'sateeshk7905',
+        name: "sateesh kumar",
+        description: "Hello everyone, myself sateesh kumar from meta part 1",
+        github: "https://github.com/SateeshK7905"
     },
     {
         handle_name: 'darshi1337',
@@ -19,10 +19,10 @@ const CONTRIBUTERS = [
         github: "https://github.com/darshi1337"
     },
     {
-        handle_name: 'shivansh-bhatnagar18',
-        name: "Shivansh Bhatnagar",
-        description: "Hello everyone, myself Shivansh from MnC Part 2",
-        github: "https://github.com/shivansh-bhatnagar18"
+        handle_name: 'sateeshk7905',
+        name: "sateesh kumar",
+        description: "Hello everyone, myself sateesh kumar from Meta",
+        github: "https://github.com/SateeshK7905"
     },
     
 ];
