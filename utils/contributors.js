@@ -27,7 +27,7 @@ const CONTRIBUTERS = [
     {
         handle_name: 'aditya23124003',
         name: "aditya gupta",
-        description: "Hello everyone, myself aditya from MnC Part 1",
+        description: "Hello everyone, myself aditya gupta from MnC Part 1",
         github: "https://github.com/aditya23124003"
     },
     
