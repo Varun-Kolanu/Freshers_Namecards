@@ -24,7 +24,12 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Shivansh from MnC Part 2",
         github: "https://github.com/shivansh-bhatnagar18"
     },
-    
+    {
+        handle_name: 'dshayon04 ',
+        name: "Shayon Dasgupta",
+        description: "Hello everyone, myself Shayon from CSE Part 1",
+        github: "https://github.com/dshayon04"
+    },
 ];
 
 export default CONTRIBUTERS;
