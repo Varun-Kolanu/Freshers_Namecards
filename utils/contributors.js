@@ -44,6 +44,13 @@ const CONTRIBUTERS = [
     
     {
 
+        handle_name: 'itzmepriyansh69',
+        name: "Priyansh Singh",
+        description: "Hello everyone, myself Priyansh from Electrical Part 1",
+        github: "https://github.com/itzmepriyansh69"
+    },
+  {  
+
 
 
         handle_name: 'ALPH4quantum',
@@ -107,10 +114,6 @@ const CONTRIBUTERS = [
         github: "https://github.com/LakshyaKhilwani"
     },
   {
-
-
-
-
         handle_name: 'Priyanshu9801',
         name: "Priyanshu Gupta",
         description: "Hello everyone, myself Priyanshu from Meta Part 1",
