@@ -7,6 +7,12 @@ const CONTRIBUTERS = [
     },
     // Start adding your data below
     {
+        handle_name: 'KingReapermax',
+        name: "Gannoju Ikshwak",
+        description: "Hello World! Ikshwak from MNC part 1",
+        github: "https://github.com/Kingreapermax"
+    },
+    {
         handle_name: '4pahuja',
         name: "Arnav Pahuja",
         description: "Hello World! Arnav Pahuja from Meta(Metallurgical Engg) is in!",
