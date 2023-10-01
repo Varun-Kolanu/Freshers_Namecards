@@ -30,6 +30,12 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Shivansh from MnC Part 2",
         github: "https://github.com/shivansh-bhatnagar18"
     },
+    { 
+    handle_name: 'neharika-garg-20',
+    name: "Neharika Garg",
+    description: "Hello everyone, myself Neharika from CSE Part 1",
+    github:  "https://github.com/neharika-garg-20"},
+    
     {
         handle_name: 'DhwanilShah25',
         name: "Dhwanil Shah",
@@ -41,6 +47,12 @@ const CONTRIBUTERS = [
         name: "Priyamvada Negi",
         description: "Hello everyone, this is the Priyamvada Negi. Go ahead, add your own!",
         github: "https://github.com/COPS-IITBHU",
+    },
+    {
+        handle_name: 'anshikajain-31',
+        name: "Anshika jain",
+        description: "Hello everyone, myself Anshika from MnC Part 1",
+        github: "https://github.com/anshikajain-31"
     },
     {
         handle_name: 'sethdivyansh',
@@ -80,10 +92,14 @@ const CONTRIBUTERS = [
     },
   {
 
+
+
+
         handle_name: 'Priyanshu9801',
         name: "Priyanshu Gupta",
         description: "Hello everyone, myself Priyanshu from Meta Part 1",
         github: "https://github.com/Priyanshu9801"
+
     },
 ];
 
