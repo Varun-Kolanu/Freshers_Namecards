@@ -27,7 +27,7 @@ const CONTRIBUTERS = [
     {
         handle_name: 'shivansh-bhatnagar18',
         name: "Shivansh Bhatnagar",
-        description: "Hello everyone, myself Shivansh from MnC Part 2",
+        name: "Hello everyone, myself Shivansh from MnC Part 2",
         github: "https://github.com/shivansh-bhatnagar18"
     },
      {
@@ -43,6 +43,14 @@ const CONTRIBUTERS = [
     github:  "https://github.com/neharika-garg-20"},
     
     {
+   
+        handle_name: 'ayushivijay82',
+        name: "ayushi vijay vargiya",
+        name: "Hello everyone, myself ayushi vijayvargiya from civil part 1",
+        github: "https://github.com/Ayushivijay82/Freshers_Namecards.git"
+    },
+
+    {
 
 
 
@@ -53,6 +61,7 @@ const CONTRIBUTERS = [
     },
 
   {
+
 
         handle_name: 'priyamvadanegi',
         name: "Priyamvada Negi",
@@ -69,6 +78,7 @@ const CONTRIBUTERS = [
         github: "https://github.com/anshikajain-31"
     },
   {
+
 
 
 
