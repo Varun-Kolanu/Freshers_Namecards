@@ -45,6 +45,14 @@ const CONTRIBUTERS = [
     {
 
 
+        handle_name: 'Lavina-11',
+        name: "Kunika Verma",
+        description: "Hello everyone, myself Kunika from Chemical Part 1",
+        github: "https://github.com/Lavina-11"
+    },
+    
+
+
 
         handle_name: 'ALPH4quantum',
         name: "Punit Makwana",
@@ -53,6 +61,7 @@ const CONTRIBUTERS = [
     },
 
   {
+
 
         handle_name: 'priyamvadanegi',
         name: "Priyamvada Negi",
