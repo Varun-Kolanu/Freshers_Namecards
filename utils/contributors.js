@@ -37,6 +37,14 @@ const CONTRIBUTERS = [
     github:  "https://github.com/neharika-garg-20"},
     
     {
+
+        handle_name: 'Analyze-R',
+        name:"Aditya Arkalgud",
+        description: "Hello everyone, this is Aditya from ECE Part 1",
+        github: "https://github.com/Analyze-R"
+    },
+    
+
         handle_name: 'priyamvadanegi',
         name: "Priyamvada Negi",
         description: "Hello everyone, this is the Priyamvada Negi. Go ahead, add your own!",
@@ -99,6 +107,7 @@ const CONTRIBUTERS = [
         github: "https://github.com/Priyanshu9801"
 
     },
+
 ];
 
 export default CONTRIBUTERS;
