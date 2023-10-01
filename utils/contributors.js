@@ -50,7 +50,6 @@ const CONTRIBUTERS = [
     description: "Hello everyone, myself Neharika from CSE Part 1",
     github:  "https://github.com/neharika-garg-20"},
     
-  },
     {
 
 
