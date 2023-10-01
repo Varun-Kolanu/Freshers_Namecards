@@ -25,21 +25,6 @@ const CONTRIBUTERS = [
         github: "https://github.com/shivansh-bhatnagar18"
     },
     {
-
-        handle_name: 'sethdivyansh',
-        name: "Divyansh Seth",
-        description: "Hello everyone, I am Divyansh Seth from Pharma Part 1",
-        github: "https://github.com/sethdivyansh"
-    },  
-  {
-        handle_name: 'Krishna9119',
-        name: "Krishna Ishwar Deshmukh",
-        description: "Hello everyone, myself Krishna from MnC Part 1",
-        github: "https://github.com/Krishna9119"
-
-    },
-  {
-
         handle_name: 'KaifAsALearner',
         name: "Sk Md Kaif",
         description: "Hello everyone, myself Kaif from EEE Part 1",
@@ -52,14 +37,19 @@ const CONTRIBUTERS = [
         github: "https://github.com/shreyj24"
     },
     {
-
         handle_name: 'LakshyaKhilwani',
         name: "Lakshya Khilwani",
         description: "Hello everyone, myself Lakshya from MnC Part 1",
         github: "https://github.com/LakshyaKhilwani"
 
     },
-    
+     {
+        handle_name: 'indian98765',
+        name: "Aman Dhingra",
+        description: "Hello everyone, myself Aman from CSE Part 1",
+        github: "https://github.com/indian98765/github"
+
+    }
 ];
 
 export default CONTRIBUTERS;
