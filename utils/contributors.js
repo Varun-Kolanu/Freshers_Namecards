@@ -26,16 +26,26 @@ const CONTRIBUTERS = [
     },
     {
 
+
         handle_name: 'ALPH4quantum',
         name: "Punit Makwana",
         description: "Hello everyone, myself Punit from Mech Part 1",
         github: "https://github.com/ALPH4quantum"
-    }
+    },
+
+
+        handle_name: 'shreyj24',
+        name: "Shrey Jaiswal",
+        description: "Hello everyone, myself Shrey from Electrial Part 1",
+        github: "https://github.com/shreyj24"
+    },
+    {
 
         handle_name: 'LakshyaKhilwani',
         name: "Lakshya Khilwani",
         description: "Hello everyone, myself Lakshya from MnC Part 1",
         github: "https://github.com/LakshyaKhilwani"
+
     },
     
 
