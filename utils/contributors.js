@@ -7,6 +7,12 @@ const CONTRIBUTERS = [
     },
     // Start adding your data below
     {
+        handle_name: '4pahuja',
+        name: "Arnav Pahuja",
+        description: "Hello World! Arnav Pahuja from Meta(Metallurgical Engg) is in!",
+        github: "https://github.com/4pahuja"
+    },
+    {
         handle_name: 'Varun-Kolanu',
         name: "Varun Kolanu",
         description: "Hello everyone, myself Varun from CSE Part 2",
