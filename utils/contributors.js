@@ -25,6 +25,11 @@ const CONTRIBUTERS = [
         github: "https://github.com/shivansh-bhatnagar18"
     },
     
+{
+    handle_name: 'YOGESHGARG2004',
+    name: " Yogesh garg",
+    description: "Hello everyone, myself yogesh from CSE Part 1",
+    github: "https://github.com/YOGESHGARG2004"},
 ];
 
 export default CONTRIBUTERS;
