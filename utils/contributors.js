@@ -29,8 +29,12 @@ const CONTRIBUTERS = [
         name: "Bhavya Mehta",
         description: "Hello everyone, myself Bhavya from Mining Part 1",
         github: "https://github.com/BHAVYAM5HTA"
-
-
+    },
+    {
+        handle_name: 'LakshyaKhilwani',
+        name: "Lakshya Khilwani",
+        description: "Hello everyone, myself Lakshya from MnC Part 1",
+        github: "https://github.com/LakshyaKhilwani"
     },
     
 ];
