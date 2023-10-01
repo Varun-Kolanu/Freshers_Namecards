@@ -27,7 +27,7 @@ const CONTRIBUTERS = [
      {
         handle_name: 'ujjawalk',
         name: "Ujjawal Kumar Chouhan",
-        description: "Hello Myself Ujjawalo, I am from ECE part 1",
+        description: "Hello Myself Ujjawal, I am from ECE part 1",
         github: "https://github.com/UjjawalK7895/"
     },
     
