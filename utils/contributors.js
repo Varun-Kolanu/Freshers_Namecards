@@ -30,17 +30,28 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Shivansh from MnC Part 2",
         github: "https://github.com/shivansh-bhatnagar18"
     },
+
+
+    {
+        handle_name: 'DivyanshuDutta',
+        name: "Divyanshu Dutta",
+        description: "Hello everyone, myself Divyanshu from Electrical Part 1",
+        github: "https://github.com/DivyanshuDutta"
+    },
+
+
      {
         handle_name: 'ayushman-05',
         name: "Ayushman Mishra",
         description: "Hello everyone, myself Ayushman from EEE Part 1",
         github: "https://github.com/ayushman-05"
     },
+
     { 
     handle_name: 'neharika-garg-20',
     name: "Neharika Garg",
     description: "Hello everyone, myself Neharika from CSE Part 1",
-    github:  "https://github.com/neharika-garg-20"},
+    github:  "https://github.com/neharika-garg-20"}
     
     {
 
