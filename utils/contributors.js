@@ -30,12 +30,15 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Shivansh from MnC Part 2",
         github: "https://github.com/shivansh-bhatnagar18"
     },
+
+=======
      {
         handle_name: 'ayushman-05',
         name: "Ayushman Mishra",
         description: "Hello everyone, myself Ayushman from EEE Part 1",
         github: "https://github.com/ayushman-05"
     },
+
     { 
     handle_name: 'neharika-garg-20',
     name: "Neharika Garg",
@@ -116,8 +119,14 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Priyanshu from Meta Part 1",
         github: "https://github.com/Priyanshu9801"
 
-    },
 
+    },
+   {
+        handle_name: 'SaiSwaroopIITBHU',
+        name: "Sai Swaroop",
+        description: "Hello everyone, myself Sai Swaroop from Metallurgy Part 1",
+        github: "https://github.com/SaiSwaroopIITBHU"
+   },
 ];
 
 export default CONTRIBUTERS;
