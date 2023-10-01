@@ -31,7 +31,13 @@ const CONTRIBUTERS = [
         github: "https://github.com/shivansh-bhatnagar18"
     },
 
-   
+=======
+     {
+        handle_name: 'ayushman-05',
+        name: "Ayushman Mishra",
+        description: "Hello everyone, myself Ayushman from EEE Part 1",
+        github: "https://github.com/ayushman-05"
+    },
 
     { 
     handle_name: 'neharika-garg-20',
