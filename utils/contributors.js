@@ -41,7 +41,16 @@ const CONTRIBUTERS = [
     name: "Neharika Garg",
     description: "Hello everyone, myself Neharika from CSE Part 1",
     github:  "https://github.com/neharika-garg-20"},
+  
+  },
+{
+    handle_name: 'nihalshenkeshi',
+    name: "nihal shenkeshi",
+    description: "Hello everyone, myself nihal from MnC Part 1",
+    github: "https://github.com/nihalshenkeshi"
     
+},
+
     {
 
 
@@ -117,6 +126,7 @@ const CONTRIBUTERS = [
         github: "https://github.com/Priyanshu9801"
 
     },
+
 
 ];
 
