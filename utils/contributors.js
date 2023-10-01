@@ -25,14 +25,19 @@ const CONTRIBUTERS = [
         github: "https://github.com/shivansh-bhatnagar18"
     },
     {
-
-
-
         handle_name: 'anushka5531',
         name: "Anushka Tripathi",
         description: "namaste!! myself Anushka Tripathi from ECE 2023 batch.",
         github: "https://github.com/anushka5531"
     },
+
+
+        handle_name: 'sethdivyansh',
+        name: "Divyansh Seth",
+        description: "Hello everyone, I am Divyansh Seth from Pharma Part 1",
+        github: "https://github.com/sethdivyansh"
+    },  
+  {
 
         handle_name: 'Krishna9119',
         name: "Krishna Ishwar Deshmukh",
@@ -42,6 +47,7 @@ const CONTRIBUTERS = [
     },
 
   {
+
         handle_name: 'KaifAsALearner',
         name: "Sk Md Kaif",
         description: "Hello everyone, myself Kaif from EEE Part 1",
