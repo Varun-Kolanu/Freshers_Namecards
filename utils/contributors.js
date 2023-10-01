@@ -24,6 +24,12 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Shivansh from MnC Part 2",
         github: "https://github.com/shivansh-bhatnagar18"
     },
+    {
+        handle_name: 'GVG-CODER',
+        name: "Gaurav Gaikwad",
+        description: "Hello everyone, myself GAURAV from CSE Part 1",
+        github: "https://github.com/GVG-CODER"
+    },
     
 ];
 
