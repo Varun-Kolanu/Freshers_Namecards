@@ -25,6 +25,12 @@ const CONTRIBUTERS = [
         github: "https://github.com/shivansh-bhatnagar18"
     },
     {
+        handle_name: 'KaifAsALearner',
+        name: "Sk Md Kaif",
+        description: "Hello everyone, myself Kaif from EEE Part 1",
+        github: "https://github.com/KaifAsALearner"
+    },
+    {
         handle_name: 'shreyj24',
         name: "Shrey Jaiswal",
         description: "Hello everyone, myself Shrey from Electrial Part 1",
