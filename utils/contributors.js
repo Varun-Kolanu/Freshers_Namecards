@@ -24,6 +24,14 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Shivansh from MnC Part 2",
         github: "https://github.com/shivansh-bhatnagar18"
     },
+    {
+        handle_name: 'BHAVYAM5HTA',
+        name: "Bhavya Mehta",
+        description: "Hello everyone, myself Bhavya from Mining Part 1",
+        github: "https://github.com/BHAVYAM5HTA"
+
+
+    },
     
 ];
 
