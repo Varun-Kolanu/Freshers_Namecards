@@ -7,6 +7,12 @@ const CONTRIBUTERS = [
     },
     // Start adding your data below
     {
+        handle_name: '4pahuja',
+        name: "Arnav Pahuja",
+        description: "Hello World! Arnav Pahuja from Meta(Metallurgical Engg) is in!",
+        github: "https://github.com/4pahuja"
+    },
+    {
         handle_name: 'Varun-Kolanu',
         name: "Varun Kolanu",
         description: "Hello everyone, myself Varun from CSE Part 2",
@@ -25,11 +31,20 @@ const CONTRIBUTERS = [
         github: "https://github.com/shivansh-bhatnagar18"
     },
     {
+
         handle_name: 'anushka5531',
         name: "Anushka Tripathi",
         description: "namaste!! myself Anushka Tripathi from ECE 2023 batch.",
         github: "https://github.com/anushka5531"
     },
+
+
+        handle_name: 'priyamvadanegi',
+        name: "Priyamvada Negi",
+        description: "Hello everyone, this is the Priyamvada Negi. Go ahead, add your own!",
+        github: "https://github.com/COPS-IITBHU",
+    },
+    {
 
 
         handle_name: 'sethdivyansh',
@@ -65,9 +80,15 @@ const CONTRIBUTERS = [
         name: "Lakshya Khilwani",
         description: "Hello everyone, myself Lakshya from MnC Part 1",
         github: "https://github.com/LakshyaKhilwani"
-
     },
-    
+  {
+
+        handle_name: 'Priyanshu9801',
+        name: "Priyanshu Gupta",
+        description: "Hello everyone, myself Priyanshu from Meta Part 1",
+        github: "https://github.com/Priyanshu9801"
+    },
 ];
 
 export default CONTRIBUTERS;
+
