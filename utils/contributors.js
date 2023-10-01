@@ -37,6 +37,14 @@ const CONTRIBUTERS = [
     github:  "https://github.com/neharika-garg-20"},
     
     {
+
+        handle_name: 'anushka5531',
+        name: "Anushka Tripathi",
+        description: "namaste!! myself Anushka Tripathi from ECE 2023 batch.",
+        github: "https://github.com/anushka5531"
+    },
+
+
         handle_name: 'priyamvadanegi',
         name: "Priyamvada Negi",
         description: "Hello everyone, this is the Priyamvada Negi. Go ahead, add your own!",
@@ -44,18 +52,21 @@ const CONTRIBUTERS = [
     },
     {
 
+
         handle_name: 'sethdivyansh',
         name: "Divyansh Seth",
         description: "Hello everyone, I am Divyansh Seth from Pharma Part 1",
         github: "https://github.com/sethdivyansh"
     },  
   {
+
         handle_name: 'Krishna9119',
         name: "Krishna Ishwar Deshmukh",
         description: "Hello everyone, myself Krishna from MnC Part 1",
         github: "https://github.com/Krishna9119"
 
     },
+
   {
 
         handle_name: 'KaifAsALearner',
