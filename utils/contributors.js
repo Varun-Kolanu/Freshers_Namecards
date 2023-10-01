@@ -46,6 +46,17 @@ const CONTRIBUTERS = [
     github:  "https://github.com/neharika-garg-20"},
     
     {
+
+
+
+        handle_name: 'ALPH4quantum',
+        name: "Punit Makwana",
+        description: "Hello everyone, myself Punit from Mech Part 1",
+        github: "https://github.com/ALPH4quantum"
+    },
+
+  {
+
         handle_name: 'priyamvadanegi',
         name: "Priyamvada Negi",
         description: "Hello everyone, this is the Priyamvada Negi. Go ahead, add your own!",
@@ -85,6 +96,7 @@ const CONTRIBUTERS = [
         github: "https://github.com/KaifAsALearner"
     },
     {
+
         handle_name: 'shreyj24',
         name: "Shrey Jaiswal",
         description: "Hello everyone, myself Shrey from Electrial Part 1",
