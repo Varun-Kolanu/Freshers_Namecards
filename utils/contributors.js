@@ -18,11 +18,19 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Priyadarshi from Mechanical Part 2",
         github: "https://github.com/darshi1337"
     },
+
     {
         handle_name: 'nk7681249',
         name: "neeraj kumar",
         description: "Hello everyone, myself neeraj kumar from meta Part 1",
         github: "https://github.com/nk7681249"
+    },
+    
+    {
+        handle_name: 'shivansh-bhatnagar18',
+        name: "Shivansh Bhatnagar",
+        description: "Hello everyone, myself Shivansh from MnC Part 2",
+        github: "https://github.com/shivansh-bhatnagar18"
     },
     
 
