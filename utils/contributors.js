@@ -27,11 +27,21 @@ const CONTRIBUTERS = [
     {
 
 
+
         handle_name: 'DhwanilShah25',
         name: "Dhwanil Shah",
         description: "Hello everyone, myself Dhwanil from MnC Part 1",
         github: "https://github.com/DhwanilShah25"
-    }
+    },
+    {
+
+
+        handle_name: 'Krishna9119',
+        name: "Krishna Ishwar Deshmukh",
+        description: "Hello everyone, myself Krishna from MnC Part 1",
+        github: "https://github.com/Krishna9119"
+
+    },
     {
 
         handle_name: 'KaifAsALearner',
@@ -47,6 +57,7 @@ const CONTRIBUTERS = [
     },
 
     {
+
         handle_name: 'LakshyaKhilwani',
         name: "Lakshya Khilwani",
         description: "Hello everyone, myself Lakshya from MnC Part 1",
