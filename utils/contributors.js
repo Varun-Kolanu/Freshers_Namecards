@@ -43,9 +43,12 @@ const CONTRIBUTERS = [
     github:  "https://github.com/neharika-garg-20"},
     
     {
-
-
-
+        handle_name: 'DhwanilShah25',
+        name: "Dhwanil Shah",
+        description: "Hello everyone, myself Dhwanil from MnC Part 1",
+        github: "https://github.com/DhwanilShah25"
+    },
+    {
         handle_name: 'ALPH4quantum',
         name: "Punit Makwana",
         description: "Hello everyone, myself Punit from Mech Part 1",
@@ -53,25 +56,18 @@ const CONTRIBUTERS = [
     },
 
   {
-
         handle_name: 'priyamvadanegi',
         name: "Priyamvada Negi",
         description: "Hello everyone, this is the Priyamvada Negi. Go ahead, add your own!",
         github: "https://github.com/COPS-IITBHU",
     },
     {
-
-
-
         handle_name: 'anshikajain-31',
         name: "Anshika jain",
         description: "Hello everyone, myself Anshika from MnC Part 1",
         github: "https://github.com/anshikajain-31"
     },
-  {
-
-
-
+    {
         handle_name: 'sethdivyansh',
         name: "Divyansh Seth",
         description: "Hello everyone, I am Divyansh Seth from Pharma Part 1",
@@ -85,7 +81,8 @@ const CONTRIBUTERS = [
         github: "https://github.com/Krishna9119"
 
     },
-  {
+
+    {
 
         handle_name: 'KaifAsALearner',
         name: "Sk Md Kaif",
@@ -99,6 +96,7 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Shrey from Electrial Part 1",
         github: "https://github.com/shreyj24"
     },
+
     {
 
         handle_name: 'LakshyaKhilwani',
