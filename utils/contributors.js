@@ -30,7 +30,12 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Shivansh from MnC Part 2",
         github: "https://github.com/shivansh-bhatnagar18"
     },
-
+    {
+        handle_name: 'priyamvadanegi',
+        name: "Priyamvada Negi",
+        description: "Hello everyone, this is the Priyamvada Negi. Go ahead, add your own!",
+        github: "https://github.com/COPS-IITBHU",
+    },
     {
 
         handle_name: 'sethdivyansh',
@@ -72,7 +77,7 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Priyanshu from Meta Part 1",
         github: "https://github.com/Priyanshu9801"
     },
-    
 ];
 
 export default CONTRIBUTERS;
+
