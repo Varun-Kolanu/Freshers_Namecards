@@ -29,7 +29,7 @@ const CONTRIBUTERS = [
         name: "Roshni Tilwani",
         description: "Hello everyone, myself Roshni Tilwani from cse",
         github: "https://github.com/RoshniTilwani"
-    },"
+    },
     
     
     
