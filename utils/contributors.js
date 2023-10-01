@@ -30,6 +30,12 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Shivansh from MnC Part 2",
         github: "https://github.com/shivansh-bhatnagar18"
     },
+    {
+        handle_name: 'KingReapermax',
+        name: "Gannoju Ikshwak",
+        description: "Hello everyone, this is Ikshwak, MnC part 1",
+        github: "https://github.com/KingReapermax"
+    },
      {
         handle_name: 'ayushman-05',
         name: "Ayushman Mishra",
