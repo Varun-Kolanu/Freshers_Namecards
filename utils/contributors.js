@@ -28,7 +28,7 @@ const CONTRIBUTERS = [
         handle_name: 'KingReapermax',
         name: "Gannoju Ikshwak",
         description: "Hello everyone, this is Ikshwak, MnC part 1",
-        github: "https://github.com/KingReaperMax",
+        github: "https://github.com/KingReapermax"
     },
 ];
 
