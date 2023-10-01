@@ -27,12 +27,20 @@ const CONTRIBUTERS = [
     {
 
 
+
         handle_name: 'anushka5531',
         name: "Anushka Tripathi",
         description: "namaste!! myself Anushka Tripathi from ECE 2023 batch.",
         github: "https://github.com/anushka5531"
     },
- 
+
+        handle_name: 'Krishna9119',
+        name: "Krishna Ishwar Deshmukh",
+        description: "Hello everyone, myself Krishna from MnC Part 1",
+        github: "https://github.com/Krishna9119"
+
+    },
+
   {
         handle_name: 'KaifAsALearner',
         name: "Sk Md Kaif",
