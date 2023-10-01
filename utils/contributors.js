@@ -25,6 +25,15 @@ const CONTRIBUTERS = [
         github: "https://github.com/shivansh-bhatnagar18"
     },
     {
+
+
+        handle_name: 'Krishna9119',
+        name: "Krishna Ishwar Deshmukh",
+        description: "Hello everyone, myself Krishna from MnC Part 1",
+        github: "https://github.com/Krishna9119"
+
+    },
+  {
         handle_name: 'KaifAsALearner',
         name: "Sk Md Kaif",
         description: "Hello everyone, myself Kaif from EEE Part 1",
@@ -37,6 +46,7 @@ const CONTRIBUTERS = [
         github: "https://github.com/shreyj24"
     },
     {
+
         handle_name: 'LakshyaKhilwani',
         name: "Lakshya Khilwani",
         description: "Hello everyone, myself Lakshya from MnC Part 1",
