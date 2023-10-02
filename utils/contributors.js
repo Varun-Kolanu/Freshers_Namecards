@@ -70,7 +70,7 @@ const CONTRIBUTERS = [
 
         handle_name: 'RamanujAgrawal',
         name: "Ramanuj Agrawal",
-        description: "Hello everyone, myself Ramanuj from EEE part 1",
+        description: "Hello everyone, myself Ramanuj from Electrical part 1",
         github: "https://github.com/RamanujAgrawal"
     },
     
