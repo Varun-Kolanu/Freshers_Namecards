@@ -31,12 +31,28 @@ const CONTRIBUTERS = [
         github: "https://github.com/shivansh-bhatnagar18"
     },
 
+
     {
         handle_name: 'Anjalihere',
         name: "Anjali Bharti",
         description: "Hello everyone, myself Anjali Bharti from MnC Part 2",
         github: "https://github.com/Anjalihere",
     },
+
+      {
+        handle_name: 'VaralikaAg',
+        name: "Varalika Agarwal",
+        description: "Hello everyone, myself Varalika from MnC Part 1",
+        github: "https://github.com/VaralikaAg" 
+    },
+
+    {
+        handle_name: 'shubhamkhetan02',
+        name: "Shubham Khetan",
+        description: "Hello everyone, myself Shubham from MnC Part 1",
+        github: "https://github.com/shubhamkhetan02"
+  },
+
 
      {
         handle_name: 'ayushman-05',
@@ -49,9 +65,21 @@ const CONTRIBUTERS = [
     name: "Neharika Garg",
     description: "Hello everyone, myself Neharika from CSE Part 1",
     github:  "https://github.com/neharika-garg-20"},
+
 },
     
-    {
+    
+
+  {
+
+        handle_name: 'ALPH4quantum',
+        name: "Punit Makwana",
+        description: "Hello everyone, myself Punit from Mech Part 1",
+        github: "https://github.com/ALPH4quantum"
+    },
+
+  {
+
         handle_name: 'priyamvadanegi',
         name: "Priyamvada Negi",
         description: "Hello everyone, this is the Priyamvada Negi. Go ahead, add your own!",
@@ -84,13 +112,13 @@ const CONTRIBUTERS = [
 
     },
   {
-
         handle_name: 'KaifAsALearner',
         name: "Sk Md Kaif",
         description: "Hello everyone, myself Kaif from EEE Part 1",
         github: "https://github.com/KaifAsALearner"
     },
     {
+
         handle_name: 'shreyj24',
         name: "Shrey Jaiswal",
         description: "Hello everyone, myself Shrey from Electrial Part 1",
@@ -114,6 +142,7 @@ const CONTRIBUTERS = [
         github: "https://github.com/Priyanshu9801"
 
     },
+
 ];
 
 export default CONTRIBUTERS;
