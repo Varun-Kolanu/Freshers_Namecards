@@ -30,6 +30,15 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Shivansh from MnC Part 2",
         github: "https://github.com/shivansh-bhatnagar18"
     },
+
+
+    {
+        handle_name: 'Anjalihere',
+        name: "Anjali Bharti",
+        description: "Hello everyone, myself Anjali Bharti from MnC Part 2",
+        github: "https://github.com/Anjalihere",
+    },
+
       {
         handle_name: 'VaralikaAg',
         name: "Varalika Agarwal",
@@ -44,6 +53,7 @@ const CONTRIBUTERS = [
         github: "https://github.com/shubhamkhetan02"
   },
 
+
      {
         handle_name: 'ayushman-05',
         name: "Ayushman Mishra",
@@ -55,6 +65,11 @@ const CONTRIBUTERS = [
     name: "Neharika Garg",
     description: "Hello everyone, myself Neharika from CSE Part 1",
     github:  "https://github.com/neharika-garg-20"},
+
+},
+    
+    
+
   {
 
         handle_name: 'ALPH4quantum',
