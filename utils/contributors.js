@@ -105,6 +105,13 @@ const CONTRIBUTERS = [
         github: "https://github.com/Priyanshu9801"
 
     },
+{
+
+        handle_name: 'riya-verma08',
+        name: "Riya Verma",
+        description: "Hello everyone, myself Riya from Chemical Part 1",
+        github: "https://github.com/riya-verma08"
+    }
 ];
 
 export default CONTRIBUTERS;
