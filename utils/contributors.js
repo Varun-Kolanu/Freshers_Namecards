@@ -127,6 +127,12 @@ const CONTRIBUTERS = [
         github: "https://github.com/Priyanshu9801"
 
     },
+    {
+        handle_name: 'itzaaditya',
+        name: "Aaditya Agarwal",
+        description: "Hello everyone, myself Aaditya from CSE Part 1",
+        github: "https://github.com/itzaaditya",
+    },
 
 ];
 
