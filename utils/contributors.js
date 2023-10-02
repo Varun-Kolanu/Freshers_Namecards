@@ -30,6 +30,14 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Shivansh from MnC Part 2",
         github: "https://github.com/shivansh-bhatnagar18"
     },
+    {
+        handle_name: 'aditya23124003',
+        name: "aditya gupta",
+        description: "Hello everyone, myself aditya gupta from MnC Part 1",
+        github: "https://github.com/aditya23124003"
+    },
+    
+    
       {
         handle_name: 'VaralikaAg',
         name: "Varalika Agarwal",
@@ -127,6 +135,7 @@ const CONTRIBUTERS = [
         github: "https://github.com/Priyanshu9801"
 
     },
+
 
 ];
 
