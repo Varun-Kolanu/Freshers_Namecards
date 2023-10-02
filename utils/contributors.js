@@ -116,6 +116,13 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Lakshya from MnC Part 1",
         github: "https://github.com/LakshyaKhilwani"
     },
+    // Start adding your data below
+    {
+        handle_name: 'MasthanJilani',
+        name: "Shaik Masthan Jilani",
+        description: "Hey guys! Myself Shaik Masthan Jilani from CSE part 1.",
+        github: "https://github.com/MasthanJilani"
+    },
   {
 
 
