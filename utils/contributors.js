@@ -31,6 +31,13 @@ const CONTRIBUTERS = [
         github: "https://github.com/shivansh-bhatnagar18"
     },
 
+
+  {
+        handle_name: 'Arnav05laddha',
+        name: "Arnav laddha",
+        description: "Hello everyone, myself Arnav from MnC Part 1",
+        github: "https://github.com/Arnav05laddha"
+    },
     {
         handle_name: 'anushka211',
         name: "Anushka Sinha",
@@ -131,6 +138,7 @@ const CONTRIBUTERS = [
         name: "Lakshya Khilwani",
         description: "Hello everyone, myself Lakshya from MnC Part 1",
         github: "https://github.com/LakshyaKhilwani"
+
     },
   {
 
