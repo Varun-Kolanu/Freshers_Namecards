@@ -32,6 +32,9 @@ const CONTRIBUTERS = [
     },
 
 
+=======
+
+
   {
         handle_name: 'Arnav05laddha',
         name: "Arnav laddha",
@@ -132,25 +135,18 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Shrey from Electrial Part 1",
         github: "https://github.com/shreyj24"
     },
+
     {
-
-        handle_name: 'LakshyaKhilwani',
-        name: "Lakshya Khilwani",
-        description: "Hello everyone, myself Lakshya from MnC Part 1",
-        github: "https://github.com/LakshyaKhilwani"
-
-    },
-  {
-
-
+      =======
+        handle_name: 'suhanijain 29',
+        name: "suhani jain",
+        description: "hello everyone  myself suhani jain ceramic part 1",
+        github: "https://github.com/suhani2904"
+    }
+=======
+     
 
 
-        handle_name: 'Priyanshu9801',
-        name: "Priyanshu Gupta",
-        description: "Hello everyone, myself Priyanshu from Meta Part 1",
-        github: "https://github.com/Priyanshu9801"
-
-    },
 
 ];
 
