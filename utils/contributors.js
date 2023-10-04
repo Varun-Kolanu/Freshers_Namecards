@@ -32,6 +32,12 @@ const CONTRIBUTERS = [
     },
 
     {
+        handle_name: 'anushka211',
+        name: "Anushka Sinha",
+        description: "Hello everyone, myself Anushka from chemical part-1",
+        github: "https://github.com/anushka211"
+    },
+    {
         handle_name: 'RashiJyotishi',
         name: "Rashi Jyotishi",
         description: "Hello everyone, myself Rashi from Cera Part 1",
@@ -63,6 +69,8 @@ const CONTRIBUTERS = [
     name: "Neharika Garg",
     description: "Hello everyone, myself Neharika from CSE Part 1",
     github:  "https://github.com/neharika-garg-20"},
+    
+
   {
 
         handle_name: 'ALPH4quantum',
