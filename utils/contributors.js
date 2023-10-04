@@ -37,7 +37,7 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Anushka from chemical part-1",
         github: "https://github.com/anushka211"
     },
-
+    {
         handle_name: 'RashiJyotishi',
         name: "Rashi Jyotishi",
         description: "Hello everyone, myself Rashi from Cera Part 1",
