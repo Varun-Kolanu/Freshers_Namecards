@@ -151,6 +151,12 @@ const CONTRIBUTERS = [
         github: "https://github.com/Priyanshu9801"
 
     },
+    {
+        handle_name: 'prajjwalbajpai',
+        name: "Prajjwal Bajpai",
+        description: "Hello everyone, I am Prajjwal from Meta Part 1",
+        github: "https://github.com/prajjwalbajpai",
+    },
 
 ];
 
