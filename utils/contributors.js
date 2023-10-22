@@ -117,6 +117,13 @@ const CONTRIBUTERS = [
         github: "https://github.com/Priyanshu9801"
 
     },
+    {
+
+        handle_name: 'tamaghna-desu',
+        name: "Tamaghna Chattopadhyay",
+        description: "Hello everyone, myself Tamaghna from ECE Part 1",
+        github: "https://github.com/tamaghna-desu"
+    }
 
 ];
 
