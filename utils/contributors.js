@@ -150,6 +150,16 @@ const CONTRIBUTERS = [
         description: "Hello everyone, myself Priyanshu from Meta Part 1",
         github: "https://github.com/Priyanshu9801"
 
+    }, {
+
+
+
+
+        handle_name: 'mohit0github',
+        name: "mohit sharma",
+        description: "Hello everyone, myself mohit from mnc Part 1",
+        github: "https://github.com/mohit0github"
+
     },
 
 ];
