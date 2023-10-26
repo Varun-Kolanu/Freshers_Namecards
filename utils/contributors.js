@@ -59,6 +59,13 @@ const CONTRIBUTERS = [
     },
 
     {
+ 
+        handle_name: 'yusakukudo',
+        name: "Anshraj Dhakad",
+        description: "Hello everyone, myself Anshraj from MnC Part 1",
+        github: "https://github.com/yusakukudo"
+    },
+      {
         handle_name: 'shubhamkhetan02',
         name: "Shubham Khetan",
         description: "Hello everyone, myself Shubham from MnC Part 1",
