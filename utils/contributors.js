@@ -140,6 +140,13 @@ const CONTRIBUTERS = [
         github: "https://github.com/LakshyaKhilwani"
 
     },
+
+    {
+        handle_name: 'GAURAV-AgarwL',
+        name: "Gaurav Agarwal",
+        description: "Hello everyone, myself Gaurav from Civil Part 1",
+        github: "https://github.com/GAURAV-AgarwL"
+    },
   {
 
 
