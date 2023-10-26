@@ -66,6 +66,14 @@ const CONTRIBUTERS = [
   },
 
      {
+
+        handle_name: 'SahilGaikwad2049',
+        name: "Sahil Gaikwad",
+        description: "Hello everyone, myself Sahil Gaikwad from Pharma part 1",
+        github: "https://github.com/SahilGaikwad2049",
+    },
+    {
+
         handle_name: 'ayushman-05',
         name: "Ayushman Mishra",
         description: "Hello everyone, myself Ayushman from EEE Part 1",
